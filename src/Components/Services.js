@@ -7,8 +7,7 @@ export default function Services() {
                 <div className="premium card">
                     <i className="fas fa-suitcase fa-2x"></i>
                     <h3>Premium Customer Care</h3>
-                    <p>A team of pharmacists and experts in beauty and customer care informs,
-                        clarifies and advises you
+                    <p>A team of pharmacists and experts in beauty and customer care informs,clarifies and advises you
                         via website,email.</p>
                 </div>
                 <div className="starreview card">
